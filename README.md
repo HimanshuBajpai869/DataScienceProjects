@@ -1,6 +1,6 @@
-# DataScience Repository
+# DataScienceProjects 
 
-The repository contains the artifacts related to different concepts in Data Science.
+The repository contains the projects completed related to different concepts in Data Science.
 
 ## Few points related to repository structure
 
@@ -10,6 +10,7 @@ The repository contains the artifacts related to different concepts in Data Scie
 ## Notebooks :
 
 1. PredictPulsarStar : This notebook aims at solving a classification problem in predicting the Pulsar Star and how feature selection can help reducing the number of features for training the model with little impact on the performance of the model.
+2. StockMarketPredictionUsingNumericalAndTextualAnalysis : This is the notebook prepared as part of GRIP programme by The Sparks Foundation. The task I opted was to predict stock markets using Text Analytics.
 
 ## Acknowledgements :
 
