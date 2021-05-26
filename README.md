@@ -12,6 +12,11 @@ The repository contains the projects completed related to different concepts in 
 1. PredictPulsarStar : This notebook aims at solving a classification problem in predicting the Pulsar Star and how feature selection can help reducing the number of features for training the model with little impact on the performance of the model.
 2. StockMarketPredictionUsingNumericalAndTextualAnalysis : This is the notebook prepared as part of GRIP programme by The Sparks Foundation. The task I opted was to predict stock markets using Text Analytics.
 3. Clustering : This notebook discusses different Clustering Algorithms applied to Gate2021 dataset.
+4. BasicIRTechniques (under Concepts Folder) : This notebook talks about Term-Document Incidence Matrix and its application Boolean Retrieval Model. It also showcases, how to solve the challenges observed in Boolean Retrieval Model via Inverted Index model.
+
+## Articles/Publications :
+
+1. Basic Information Retrieval Model : https://bajpaihimanshu.medium.com/basic-information-retrieval-problem-boolean-retrieval-model-ed05f3d74ddc
 
 ## Acknowledgements :
 
